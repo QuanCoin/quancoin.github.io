@@ -555,7 +555,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "mainTitle": "Road Map",
+          "mainTitle": "Road Map In Construction",
           "mainSubtitle": "Business Future Structure",
           "title1": "1. Multi Homepages",
           "title2": "2. Responsive Design",
@@ -569,11 +569,11 @@
           "title10": "10. Awesome Reports",
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
-          "date1": "1 January 2016",
-          "date2": "2 Ferbuary 2016",
-          "date3": "3 March 2016",
-          "date4": "4 April 2016",
-          "date5": "5 May 2016",
+          "date1": "2018",
+          "date2": "2018",
+          "date3": "2018",
+          "date4": "2018",
+          "date5": "2018",
           "date6": "6 June 2016",
           "date7": "7 July 2016",
           "date8": "8 August 2016",
@@ -598,7 +598,12 @@
             "Extension"
           ],
           "_name": "extFeatures11",
-          "_anchor": "extFeatures11-n"
+          "_anchor": "extFeatures11-n",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            }
+          }
         },
         {
           "_params": {
