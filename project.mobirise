@@ -233,7 +233,8 @@
           "_styles": {
             "H3": {
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#fac51c"
             },
             "P": {
               "font-family": "'Lato', sans-serif",
