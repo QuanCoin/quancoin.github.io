@@ -639,7 +639,8 @@
           "_anchor": "extFeatures11-n",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f3c649"
+              "color": "#f3c649",
+              "font-size": "32px"
             }
           }
         },
