@@ -593,7 +593,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "mainTitle": "Road Map In Construction",
+          "mainTitle": "Road Map <br>In Construction",
           "mainSubtitle": "Business Future Structure",
           "title1": "1. Multi Homepages",
           "title2": "2. Responsive Design",
@@ -664,7 +664,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul>Office / Postal Address:\n<br>Quan Coin Ecosystem\n<br>S.5.04, 365 Little Collins Street\n<br>Melbourne, Victoria\n<br>3000, Australia<br></ul>",
-          "title": "MOBIRISE",
+          "title": "Quan Coin Ecosystem",
           "media": {
             "image": {
               "active": true,
