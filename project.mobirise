@@ -30,7 +30,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "4.4.1"
   },
   "pages": {
@@ -73,7 +73,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Quan Coin Ecosystem",
+          "title": "Under Development",
           "text": "Household &amp; Industrial Energy Saving Projects with excellent investment potential",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:quancoinecosystem@gmail.com\" data-toolbar=\"-mbrBtnMove\">Join Pre ICO</a>",
           "_tags": [
